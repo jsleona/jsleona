@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jsleona
+- 👋 Hi, I’m @jonamel
 - 👀 I’m interested in data science and AI.
 - 🌱 I’m currently learning c#, Python.
 - 💞️ I’m looking to collaborate on any projects.
